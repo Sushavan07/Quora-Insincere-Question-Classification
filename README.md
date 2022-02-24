@@ -1,8 +1,7 @@
 # Quora Insincere Questions Classification
 
-This repository contains the code and two reports ([Data Exploration](https://github.com/markvasin/Kaggle-Quora-Insincere-Questions-Classification/blob/master/Data_Exploration_Report.pdf) and [Text Classification](https://github.com/markvasin/Kaggle-Quora-Insincere-Questions-Classification/blob/master/Machine_Learning_Report.pdf)) from participating in a Kaggle competition called Quora Insincere Questions Classification. This was part of a group coursework from COMP6208 Advanced Machine Learning class. We performed comprehensive exploratory data analysis and visualisation to obtain insights from data, and developed several machine learning models, ranging from logistic regression and SVM, to advanced models, such as LSTM with attention mechanism and BERT.
+We performed comprehensive exploratory data analysis and visualisation to obtain insights from data, and developed several machine learning models, ranging from logistic regression and SVM, to advanced models, such as LSTM with attention mechanism and BERT.
 
-![quora](Images/quora.png)
 
 ## Problem Statement
 
