@@ -1,6 +1,5 @@
 # Quora Insincere Questions Classification
-
-We performed comprehensive exploratory data analysis and visualisation to obtain insights from data, and developed several machine learning models, ranging from logistic regression and SVM, to advanced models, such as LSTM with attention mechanism and BERT.
+Performed comprehensive exploratory data analysis and visualisation to obtain insights from data, and developed several machine learning models, ranging from logistic regression and SVM, to advanced models, such as LSTM with attention mechanism and BERT.
 
 
 ## Problem Statement
